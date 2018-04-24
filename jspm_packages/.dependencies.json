@@ -185,5 +185,6 @@
   "npm:base64-js@0.0.8": {},
   "npm:ieee754@1.1.8": {},
   "npm:isarray@1.0.0": {},
-  "github:jspm/nodelibs-child_process@0.1.0": {}
+  "github:jspm/nodelibs-child_process@0.1.0": {},
+  "npm:lodash@4.17.5": {}
 }
